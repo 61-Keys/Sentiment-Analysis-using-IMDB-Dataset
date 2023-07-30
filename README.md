@@ -1,9 +1,8 @@
 # Sentiment-Analysis-using-IMDB-Dataset
 
 
-# Sentiment Analysis on Movie Reviews
 
-![Sentiment Analysis](images/sentiment-analysis.jpg)
+
 
 This project is an implementation of sentiment analysis on movie reviews using machine learning techniques. The goal of this project is to predict whether a movie review is positive or negative based on its text. The project uses the Movie Reviews dataset from the NLTK library, and the model is trained using logistic regression.
 
@@ -44,10 +43,10 @@ To use the sentiment analysis model, follow these steps:
 1. Input a movie name in the provided text box.
 2. Click the "Predict Sentiment" button.
 3. The model will predict whether the movie review is positive or negative.
-4. The sentiment will be displayed using an emoji and a speedometer-like representation.
+4. The sentiment will be displayed using an emoji and a bar-like representation.
 5. If available, the IMDb rating of the movie will be shown.
 
-![Sentiment Analysis Demo](images/sentiment-analysis-demo.png)
+
 
 ## Dependencies
 
