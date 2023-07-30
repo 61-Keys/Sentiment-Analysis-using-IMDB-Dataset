@@ -46,6 +46,13 @@ To use the sentiment analysis model, follow these steps:
 4. The sentiment will be displayed using an emoji and a bar-like representation.
 5. If available, the IMDb rating of the movie will be shown.
 
+## Instructions : 
+
+Future updates : 
+
+• To be able to create a user-friendly deployable website. 
+• More accurate sentiment analysis using powerful models like BERT.
+
 
 
 ## Dependencies
@@ -62,3 +69,4 @@ Install the dependencies using the following command:
 
 ```bash
 pip install nltk scikit-learn pandas requests ipywidgets
+
